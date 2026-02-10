@@ -1,0 +1,3 @@
+Project Name: Gitflow Assignment
+Version: 1.0
+Status: Initial setup
