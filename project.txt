@@ -1,1 +1,8 @@
 Team Owl Project
+
+Project Name: Gitflow Assignment
+Version: 1.0
+Status: Initial setup
+
+Feature Added: Login system
+Description: Users can log in using username and password.
