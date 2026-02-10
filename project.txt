@@ -6,3 +6,6 @@ Status: Initial setup
 
 Feature Added: Login system
 Description: Users can log in using username and password.
+
+Feature Added: User Profile
+Description: Users can view and edit their profile.
