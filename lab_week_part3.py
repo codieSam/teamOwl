@@ -37,7 +37,7 @@ elif(input_value == 1):
     converted_temp = (forenhite_input - 32) * 5/9
 
 
-    print("The tempoerature in Forenhite is", (converted_temp), "C")
+    print("The tempoerature in Forenhite is", (converted_temp), "Celcius")
 else:
     print("Invalid input ! Please type 1 or 0 only.")
 
@@ -46,4 +46,4 @@ else:
 
 celsius_input = float(input())
 converted_temp = (celsius_input * 9/5) + 32
-print("The tempoerature in Forenhite is", (converted_temp), "F")
+print("The tempoerature in Forenhite is", (converted_temp), "Forenhite")
